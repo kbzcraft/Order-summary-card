@@ -1,5 +1,5 @@
 # Frontend Mentor - Order summary card
-### [Check live preview](https://kbzcraft.github.io/Order-summary-card/)
+### [Check Live Preview](https://kbzcraft.github.io/Order-summary-card/)
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
